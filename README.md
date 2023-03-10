@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Descrition
+
+See Getting Started Guide at https://guides.rubyonrails.org/v6.1/getting_started.html#using-a-model-to-interact-with-the-database
